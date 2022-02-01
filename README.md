@@ -8,6 +8,6 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=clockworkgr&theme=buefy&hide_border=true&background=FFFFFF00">
 </p>
 
-
+<p align="center">
 ![trophy](https://github-profile-trophy.vercel.app/?username=clockworkgr&margin-w=15&margin-h=15)
-
+</p>
