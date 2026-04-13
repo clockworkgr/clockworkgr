@@ -14,7 +14,7 @@ I build the TypeScript/JavaScript layer that connects developers and users to bl
 **Previously built:**
 - TypeScript client codegen system for [Ignite CLI](https://github.com/ignite/cli) (1,350+ ⭐)
 - [Emeris](https://github.com/EmerisHQ) — cross-chain DeFi aggregator (led 10 devs)
-- [Castor Wallet](https://github.com/allinbits/multiwallet) — multi-chain Cosmos wallet
+- [Castor Wallet](https://github.com/allinbits/multiwallet) — multi-chain Cosmos wallet (unreleased)
 - [Beet](https://github.com/beetapp) — BitShares key/identity manager
 
 **Stack:** TypeScript · Vue 3 · Go · Rust · Cosmos SDK · CometBFT · IBC · Gno · Protobuf · GraphQL
