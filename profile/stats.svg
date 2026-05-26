@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Clockwork's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 35, Total Commits  (last year) : 1045, Total PRs: 709</desc>
+        <desc id="descId">Total Stars Earned: 35, Total Commits  (last year) : 1045, Total PRs: 713</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 53.73170530383912;
+        stroke-dashoffset: 53.73152270230632;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >709</text>
+      >713</text>
     </g>
   </g>
     </svg>
